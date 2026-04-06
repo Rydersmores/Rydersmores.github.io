@@ -1,1 +1,15 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ride Em Rigby! (Cartoon Network)</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>Ride Em Rigby! (Cartoon Network)</header>
+  <img src="ipas/ride em rigby.webp"
+  <p>works on ios 4.3+</p>
+  <a href="index.html">Go back to home</a>
+</body>
+</html>
